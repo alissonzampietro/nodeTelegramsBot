@@ -1,0 +1,18 @@
+{
+  "name": "habitar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "verify.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jsdom": "^15.2.0",
+    "require": "^2.4.20",
+    "telegram-bot-api": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
